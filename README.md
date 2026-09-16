@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 5 |
+| 2 | 7 |
 
 ---
 
@@ -16,6 +16,8 @@
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
+- [greedy](#greedy) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -43,6 +45,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1914/C%20-%20Quests/solution.java) |
 
 ### strings
 
