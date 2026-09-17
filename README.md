@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 7 |
+| 3 | 8 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
@@ -33,6 +34,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.java) |
 
 ### data structures
 
