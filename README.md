@@ -6,20 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 5 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
+- [trees](#trees) (1)
 
 ---
 
@@ -27,6 +31,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### combinatorics
@@ -47,17 +52,35 @@
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ### math
 
@@ -69,7 +92,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ---
 
