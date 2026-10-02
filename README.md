@@ -6,32 +6,41 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 12 |
+| 10 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
-- [strings](#strings) (2)
+- [math](#math) (4)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 - [trees](#trees) (1)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.java) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### combinatorics
@@ -45,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.java) |
+| 1907C | [Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | 1200 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1907/C%20-%20Removal%20of%20Unattractive%20Pairs/solution.java) |
 
 ### data structures
 
@@ -76,6 +86,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.java) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [PyPy 3-64](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1901/A%20-%20Line%20Trip/solution.txt) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
+| 1907C | [Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | 1200 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1907/C%20-%20Removal%20of%20Unattractive%20Pairs/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1914/C%20-%20Quests/solution.java) |
 
 ### implementation
@@ -88,13 +102,23 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.java) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [PyPy 3-64](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1901/A%20-%20Line%20Trip/solution.txt) |
+| 1907C | [Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | 1200 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1907/C%20-%20Removal%20of%20Unattractive%20Pairs/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 1907C | [Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | 1200 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1907/C%20-%20Removal%20of%20Unattractive%20Pairs/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/GOKUL763/CodeForces-Solutoins/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### trees
